@@ -1,0 +1,27 @@
+.about-page{
+background-color: #fff;
+width: 100%;
+height: 700px;
+padding-top: 200px;
+}
+.about-content-left{
+    width: 50%;
+}
+
+.about-content-right img{
+    height: 300px;
+    width: 470px;
+}
+
+.about-content{
+    position: relative;  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 50px;
+}
+
+.about-content-left h1{
+    color: rgb(38, 38, 163);
+}
